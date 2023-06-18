@@ -1,0 +1,13 @@
+.articl{
+    text-align: center;
+}
+.btncontainer{
+    padding: 20px 0;
+}
+.link-btn{
+    border: 1px solid gray;
+    padding: 10px 15px;
+    text-decoration: none;
+    margin: 0 10px;
+    border-radius: 10px;
+}
